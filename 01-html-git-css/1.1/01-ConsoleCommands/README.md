@@ -1,7 +1,7 @@
 # Bash / Terminal Commands
 
 ## Instructions
-
+hello
 * From the Terminal/Console and using only the command line, create the following:
   * A new folder with the name of first_day_stuff
   * A new HTML file with the name of first-day.html
